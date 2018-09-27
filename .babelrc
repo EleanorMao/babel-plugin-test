@@ -1,0 +1,15 @@
+{
+	"passPerPreset": true,
+	"presets": [
+		{
+			"plugins": [
+				"./plugins/replace.js"
+			]
+		},
+		{
+			"plugins": [
+				"./plugins/unshift.js"
+			]
+		}
+	]
+}
